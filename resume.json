@@ -1,0 +1,131 @@
+{
+    "basics": {
+        "name": "Harshit Kumar Girdhar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1038@iiitkota.ac.in",
+        "phone": "+919643451515",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Faridabad",
+            "postalCode": "121004",
+            "city": "Faridabad",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "imharshitg07",
+                "url": "https://www.github.com/"
+            },
+            {
+                "network": "linkedin",
+                "username": "harshit-kumar-girdhar-240946225",
+                "url": "https://www.linkedin.com/in/harshit-kumar-girdhar-240946225"
+            },
+            {
+                "network": "Instagram",
+                "username": "girdharharshit",
+                "url": "https://instagram.com/girdharharshit"
+            }
+        ]
+    },
+    "work": [
+        
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.1",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "Java",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing Football",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Football"
+            ]
+        }
+    ]
+}
